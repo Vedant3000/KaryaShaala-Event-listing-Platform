@@ -57,7 +57,7 @@ KaryaShaala is a fullstack project built using the following technologies:
 ## ⚙️ How to Run the Project
 ### 📂 Clone the Repository:
 ```
-git clone https://github.com/your-username/KaryaShaala.git
+git clone https://github.com/Vedant3000/KaryaShaala-Event-listing-Platform.git
 ```
 ### 🛠️ Set up the Backend:
 - Make sure PHP and MySQL are installed and running on your local server.
